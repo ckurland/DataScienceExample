@@ -1,0 +1,7 @@
+---
+title: "Connor Kurland's Landing Page"
+output:
+  html_document:
+    df_print: paged
+---
+
